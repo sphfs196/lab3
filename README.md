@@ -26,7 +26,7 @@ v1/v2 are the same.
 
 sort(): 0.52 seconds
 v1/v2 are different.
-insertion_sort():  seconds
+insertion_sort(): 12563.52 seconds
 v1/v2 are the same.
 
 explanation:
